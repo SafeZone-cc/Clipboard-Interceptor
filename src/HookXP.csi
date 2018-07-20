@@ -1,0 +1,14 @@
+[History]
+1=#P0#=mb	#P1#=HookSet	#P2#=Clip_Interceptor/MHookXP/HookSet	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20161118191706	#P7#=0	#P8#=3	.
+2=#P0#=mb	#P1#=Main	#P2#=Clip_Interceptor/MMain/Main	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20161118191516	#P7#=0	#P8#=11	.
+3=#P0#=mb	#P1#=Message	#P2#=Clip_Interceptor/IHookXP/Message	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20161118191448	#P7#=0	#P8#=-2	.
+4=#P0#=mb	#P1#=Form_Resize	#P2#=Clip_Interceptor/FHookXP/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160509193147	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=ConvertDosDeviceToDriveName	#P2#=Clip_Interceptor/FHookXP/ConvertDosDeviceToDriveName	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160509192906	#P7#=0	#P8#=1	.
+6=#P0#=mb	#P1#=GetFilePathByPID	#P2#=Clip_Interceptor/FHookXP/GetFilePathByPID	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160509192839	#P7#=0	#P8#=7	.
+7=#P0#=mb	#P1#=Form_Load	#P2#=Clip_Interceptor/FHookXP/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160509192631	#P7#=0	#P8#=16	.
+8=#P0#=mb	#P1#=m_ClipHook_Change	#P2#=Clip_Interceptor/FHookXP/m_ClipHook_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20160509192427	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=IHookXP_Message	#P2#=Clip_Interceptor/FHookXP/IHookXP_Message	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20161118191403	#P7#=0	#P8#=-1	.
+10=#P0#=mb	#P1#=DecimalNumbers	#P2#=Clip_Interceptor/HexToDec/DecimalNumbers	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20160509192255	#P7#=0	#P8#=6	.
+11=#P0#=mb	#P1#=IHookXP_Message	#P2#=Clip_Interceptor/CHookClipBoard/IHookXP_Message	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151002215410	#P7#=0	#P8#=-2	.
+12=#P0#=mb	#P1#=TraceClipboardOwner	#P2#=Clip_Interceptor/FHookXP/TraceClipboardOwner	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20151002214903	#P7#=0	#P8#=32	.
+13=#P0#=mb	#P1#=Class_Initialize	#P2#=Clip_Interceptor/CHookClipBoard/Class_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151002212844	#P7#=0	#P8#=-5	.

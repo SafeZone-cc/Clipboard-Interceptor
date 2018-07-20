@@ -1,0 +1,5 @@
+PID = 552. Path = C:\Program Files (x86)\Microsoft Visual Studio\VB98\VB6.EXE
+Clipboard data: Private Const ERROR_PARTIAL_COPY            As Long = 299&
+Message: WM_DRAWCLIPBOARD
+Time: 09.05.2016 19:58:00
+-------------------------------

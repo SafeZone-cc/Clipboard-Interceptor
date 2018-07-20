@@ -1,0 +1,9 @@
+FHookXP = 61, -23, 1166, 628, , 75, 75, 1094, 581, C
+MHookXP = 139, 78, 1158, 584, Z
+IHookXP = 125, 125, 728, 615, 
+MMain = 225, 225, 1338, 671, 
+CHookClipBoard = -8, 11, 1135, 683, 
+modRegistry = 229, 103, 1248, 609, 
+RegistryHandler = 28, 25, 1194, 681, 
+modClip = 150, 150, 1169, 656, 
+HexToDec = 175, 175, 1194, 681, 
